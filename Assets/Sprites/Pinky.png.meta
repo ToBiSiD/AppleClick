@@ -1,0 +1,1059 @@
+fileFormatVersion: 2
+guid: d3e277c7f297b584a9dc07c849e981a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -597495240494497970
+    second: Pinky_0
+  - first:
+      213: 8814897639129189694
+    second: Pinky_1
+  - first:
+      213: 4369517969404171245
+    second: Pinky_2
+  - first:
+      213: -1075427854322941570
+    second: Pinky_3
+  - first:
+      213: -6730042589853215696
+    second: Pinky_4
+  - first:
+      213: -1002760270618255185
+    second: Pinky_5
+  - first:
+      213: -8765363845960384285
+    second: Pinky_6
+  - first:
+      213: -689601919690246575
+    second: Pinky_7
+  - first:
+      213: -685690081904967503
+    second: Pinky_8
+  - first:
+      213: 5664737518391039651
+    second: Pinky_9
+  - first:
+      213: 3884436101511193062
+    second: Pinky_10
+  - first:
+      213: -1355375580088297
+    second: Pinky_11
+  - first:
+      213: -413931317802466217
+    second: Pinky_12
+  - first:
+      213: 8784280829522489006
+    second: Pinky_13
+  - first:
+      213: -9120320788618206290
+    second: Pinky_14
+  - first:
+      213: -7944688035606101804
+    second: Pinky_15
+  - first:
+      213: 2343801611515311898
+    second: Pinky_16
+  - first:
+      213: 7823077768662684227
+    second: Pinky_17
+  - first:
+      213: -3662118315448636888
+    second: Pinky_18
+  - first:
+      213: 2642675491103770837
+    second: Pinky_19
+  - first:
+      213: -5687468706612522463
+    second: Pinky_20
+  - first:
+      213: -7414621161017428095
+    second: Pinky_21
+  - first:
+      213: -4064053571267041017
+    second: Pinky_22
+  - first:
+      213: 8157534937848749613
+    second: Pinky_23
+  - first:
+      213: -8061980329684584017
+    second: Pinky_24
+  - first:
+      213: 867149074853801345
+    second: Pinky_25
+  - first:
+      213: 8996571466470442908
+    second: Pinky_26
+  - first:
+      213: -8673747296385251764
+    second: Pinky_27
+  - first:
+      213: 6015110537647994710
+    second: Pinky_28
+  - first:
+      213: 623750513547611527
+    second: Pinky_29
+  - first:
+      213: 6613148587992686720
+    second: Pinky_30
+  - first:
+      213: 7263678833287671984
+    second: Pinky_31
+  - first:
+      213: -6404845850779964574
+    second: Pinky_32
+  - first:
+      213: -5217417278734558721
+    second: Pinky_33
+  - first:
+      213: 4884884772264857160
+    second: Pinky_34
+  - first:
+      213: -5672784875070897079
+    second: Pinky_35
+  - first:
+      213: 2002774112296440280
+    second: Pinky_36
+  - first:
+      213: -7394671095636786827
+    second: Pinky_37
+  - first:
+      213: 1478086677534578563
+    second: Pinky_38
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pinky_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1066
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855780cbaa16b4b4c9c7c4f09d41b499
+      internalID: -597495240494497970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1066
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7613958194290499b85518cc3e13ad
+      internalID: 8814897639129189694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 943
+        width: 146
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2f3e39f6b1b6d4fba351cd2c391a50
+      internalID: 4369517969404171245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 923
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c8ba1f4dcc9b64190ff4d556bc429c
+      internalID: -1075427854322941570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 923
+        width: 157
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932e489e368fe74c87d3996ba198211
+      internalID: -6730042589853215696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 923
+        width: 167
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859b3ea6a5a723b418d2cbe9f41f5cd0
+      internalID: -1002760270618255185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 940
+        width: 154
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65787a31cac6a2e46aeacbd4ab1484cd
+      internalID: -8765363845960384285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 923
+        width: 167
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c91c0f0f9b7294384b2e759558c8ff
+      internalID: -689601919690246575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 771
+        width: 350
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6b056a30838442863f493397993e7
+      internalID: -685690081904967503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 771
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c30462254995d449852d3c1ff0e50e
+      internalID: 5664737518391039651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 771
+        width: 170
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868045797fce48f45885637ca8e72982
+      internalID: 3884436101511193062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 771
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db04e782ea53374ba90b084dd71d8eb
+      internalID: -1355375580088297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_12
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 774
+        width: 170
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818e69eb6114ca43a343aaf57e0db3f
+      internalID: -413931317802466217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 619
+        width: 173
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd7db682226a54bb95fad885634329
+      internalID: 8784280829522489006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 619
+        width: 177
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ac15bc4da8dbf438e079511ebf8e4f
+      internalID: -9120320788618206290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 619
+        width: 167
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61b245dbc1a95b4a97c5bef5aca2b4f
+      internalID: -7944688035606101804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_16
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 619
+        width: 170
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43e75facd0a7c640b26f2f4e4b4c375
+      internalID: 2343801611515311898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 619
+        width: 171
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d8ec2a589f407469f3515a75108844
+      internalID: 7823077768662684227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 622
+        width: 174
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd374eae2577147bddb97d47cd884b
+      internalID: -3662118315448636888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 467
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94783120f7b914a43a3742448662898f
+      internalID: 2642675491103770837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 467
+        width: 127
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cead027f1efc94f827fd9f08530df6
+      internalID: -5687468706612522463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 467
+        width: 126
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be41e44c2094b1419928329f86f9102
+      internalID: -7414621161017428095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_22
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 467
+        width: 136
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c3f3166b5ab046aa9e0290ba2529c
+      internalID: -4064053571267041017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_23
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 467
+        width: 133
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f388d7516ebf714da6d875a24e2e431
+      internalID: 8157534937848749613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_24
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 467
+        width: 133
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cfcb1d2b887164bbef2151fcdb36b8
+      internalID: -8061980329684584017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 315
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf39f948f63bd419f7ec9f3edb7813
+      internalID: 867149074853801345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 315
+        width: 105
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa0ff6ea100b1f4ebc4a5d36e4c6aa8
+      internalID: 8996571466470442908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 315
+        width: 143
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f670c4fc642c2a7438a09e383761bb0c
+      internalID: -8673747296385251764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 315
+        width: 154
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfbef724c4a6394c92461f71631cf73
+      internalID: 6015110537647994710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_29
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 315
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e05f710c711eed4c8f12f9e53474709
+      internalID: 623750513547611527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_30
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 315
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014923b84e2094488bd0af8d970d94b
+      internalID: 6613148587992686720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 166
+        width: 133
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb9e07f837e2b48ba30948a9e0bf71
+      internalID: 7263678833287671984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 166
+        width: 126
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c0ca97682aec4a99074ead220f64c
+      internalID: -6404845850779964574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 166
+        width: 120
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78d8677211f3bc4cbe477fe0493bda8
+      internalID: -5217417278734558721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 166
+        width: 106
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451cc39c460120948a5c2a33a4ddb6bd
+      internalID: 4884884772264857160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_35
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 166
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82bb667506cd643a482141444a166a
+      internalID: -5672784875070897079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_36
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 166
+        width: 102
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df579093055e5cd42b347e9745df9fc0
+      internalID: 2002774112296440280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 161
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0b5d3fac12fc41b566910fd4effcb
+      internalID: -7394671095636786827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinky_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 17
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49adde21eb029904d87b7817fb8e9a6d
+      internalID: 1478086677534578563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5dc274bca221df04bbe0eb61afc484ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

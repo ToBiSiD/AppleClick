@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 58cdcd38e780a4046a25218af8df3d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3545720340852655759
+    second: applejack_0
+  - first:
+      213: -8078243866309146259
+    second: applejack_1
+  - first:
+      213: -195979564147234505
+    second: applejack_2
+  - first:
+      213: -4406364132908731669
+    second: applejack_3
+  - first:
+      213: -8900351745532417213
+    second: applejack_4
+  - first:
+      213: 8009521734356684000
+    second: applejack_5
+  - first:
+      213: 7554996009042040008
+    second: applejack_6
+  - first:
+      213: -2221150033481746638
+    second: applejack_7
+  - first:
+      213: -4857891998850931541
+    second: applejack_8
+  - first:
+      213: 4976264903704827329
+    second: applejack_9
+  - first:
+      213: 156342924077741376
+    second: applejack_10
+  - first:
+      213: 492671363197794646
+    second: applejack_11
+  - first:
+      213: 3978678731365078673
+    second: applejack_12
+  - first:
+      213: -7817842276867589922
+    second: applejack_13
+  - first:
+      213: 7688746806405922282
+    second: applejack_14
+  - first:
+      213: 6903070901357001545
+    second: applejack_15
+  - first:
+      213: 49640906920913877
+    second: applejack_16
+  - first:
+      213: -2609172133049261371
+    second: applejack_17
+  - first:
+      213: -714685242036912132
+    second: applejack_18
+  - first:
+      213: 8386520097523966479
+    second: applejack_19
+  - first:
+      213: 955948326966766365
+    second: applejack_20
+  - first:
+      213: -5500641793435367724
+    second: applejack_21
+  - first:
+      213: -3540190600662287178
+    second: applejack_22
+  - first:
+      213: -5805566764409908927
+    second: applejack_23
+  - first:
+      213: -3338113650073389030
+    second: applejack_24
+  - first:
+      213: -8495392236038428225
+    second: applejack_25
+  - first:
+      213: -9142134800386923437
+    second: applejack_26
+  - first:
+      213: -1399353796907058128
+    second: applejack_27
+  - first:
+      213: 6465710188066723157
+    second: applejack_28
+  - first:
+      213: 6890285410163921684
+    second: applejack_29
+  - first:
+      213: 8018312603695715169
+    second: applejack_30
+  - first:
+      213: 5999987811057085830
+    second: applejack_31
+  - first:
+      213: 1911097391032151263
+    second: applejack_32
+  - first:
+      213: -6023873513909947318
+    second: applejack_33
+  - first:
+      213: -6251723411475171194
+    second: applejack_34
+  - first:
+      213: 7428218802804035906
+    second: applejack_35
+  - first:
+      213: 3102895796758511096
+    second: applejack_36
+  - first:
+      213: -2484207319070435418
+    second: applejack_37
+  - first:
+      213: -7314419684937354462
+    second: applejack_38
+  - first:
+      213: -6564418795198760686
+    second: applejack_39
+  - first:
+      213: -6172797770260220217
+    second: applejack_40
+  - first:
+      213: 2969340913950850413
+    second: applejack_41
+  - first:
+      213: -9104949796492356764
+    second: applejack_42
+  - first:
+      213: 7038243528044520181
+    second: applejack_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: applejack_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 935
+        width: 169
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae4fd94837c3543919b361458c604e
+      internalID: -3545720340852655759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 935
+        width: 176
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac213876792a647bc886d128b8d32d
+      internalID: -8078243866309146259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 935
+        width: 168
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f739fa334acee43b09e1e114183923
+      internalID: -195979564147234505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 935
+        width: 169
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20613d4e0030ae943a0d20374995d4de
+      internalID: -4406364132908731669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_4
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 935
+        width: 169
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbda3ed0b79ca04fb29678710ab839c
+      internalID: -8900351745532417213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_5
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 935
+        width: 172
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27778e64d5580344fa90ec499005fd83
+      internalID: 8009521734356684000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 171
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad35d2a08da46442898f87de8ab2b01
+      internalID: 7554996009042040008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 788
+        width: 180
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb14e2c85db46847804fe6edc4a5a39
+      internalID: -2221150033481746638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 788
+        width: 179
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5cb2f813baa345adcd22ffb3dfac0
+      internalID: -4857891998850931541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_9
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 788
+        width: 176
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929254259d568af43afaff6fa5c7f374
+      internalID: 4976264903704827329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_10
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 788
+        width: 179
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89ebd1785ff6444870be3a52ea64c9
+      internalID: 156342924077741376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_11
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 791
+        width: 175
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be75e4a9de03ce4096221ce4661e825
+      internalID: 492671363197794646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 174
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b31a458ec70847bdde7041a75155a
+      internalID: 3978678731365078673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 640
+        width: 180
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37eb9f31e32a2ce4c8398b3bcfbbce20
+      internalID: -7817842276867589922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 640
+        width: 179
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30c966eadab3554590855d738da0c1a
+      internalID: 7688746806405922282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 640
+        width: 176
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3622b3ed45bb47b6a6e9ee6b4af09
+      internalID: 6903070901357001545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 640
+        width: 179
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5dcf4a975501b419b67fe822e2ef07
+      internalID: 49640906920913877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_17
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 643
+        width: 172
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f258f6f48b4446ba4354fc2d86c97
+      internalID: -2609172133049261371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_18
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 735
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606eb38aab885384da3823e7ff86067d
+      internalID: -714685242036912132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 493
+        width: 169
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c17169a0de1ba46a3ee06e3d0efc6d
+      internalID: 8386520097523966479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 499
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079fadad167a86b47877014c0a8eedcc
+      internalID: 955948326966766365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_21
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 496
+        width: 134
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be704fbefba40846ad91716e5a8de1f
+      internalID: -5500641793435367724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_22
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 496
+        width: 172
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ed3005af85104d994d1299c2d43f4
+      internalID: -3540190600662287178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 496
+        width: 176
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273645f29f7d2554386f862e5d9ed5f4
+      internalID: -5805566764409908927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_24
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 482
+        width: 172
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f3efc3a36c67498e1d3c13de4b102
+      internalID: -3338113650073389030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_25
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 477
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8a82b3b6d63d419a33942cf0e26ae
+      internalID: -8495392236038428225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 477
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5872bc3a688644f844b675e636e66d
+      internalID: -9142134800386923437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 174
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66137561311efcc4092fb20a3493219a
+      internalID: -1399353796907058128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 346
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a876281011752478f0256cc1718e05
+      internalID: 6465710188066723157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 346
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c7eaf8c9e390458634ab69b2e7a0f
+      internalID: 6890285410163921684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_30
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 346
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e226ef66672b7243a6119dc7acd2c10
+      internalID: 8018312603695715169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_31
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 346
+        width: 155
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3c5040e764804881bb30122a38a18
+      internalID: 5999987811057085830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_32
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 346
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7556c7a81fa3e44cb2a104b57b5e6be
+      internalID: 1911097391032151263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b286c560a9f4d5c4dac566192b6971f1
+      internalID: -6023873513909947318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 202
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052debb334b977d4eb5eb488a1423c29
+      internalID: -6251723411475171194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 202
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb728bc21ea5f4eb7b10ba3050f66f
+      internalID: 7428218802804035906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_36
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 202
+        width: 165
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002259cc15b832e42bb26a6710bdf781
+      internalID: 3102895796758511096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_37
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 210
+        width: 159
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4f8d0c7d498a4390422ada134333f
+      internalID: -2484207319070435418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_38
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 210
+        width: 158
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de75e5f3bcb92a14482882b4f7c5ff07
+      internalID: -7314419684937354462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 163
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f3e3da01a3dd44c87259da425d680e
+      internalID: -6564418795198760686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 83
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0513390114969ca4bbed88b64c120f31
+      internalID: -6172797770260220217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_41
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68cf4ae12198cd4e9a2f56e50e75150
+      internalID: 2969340913950850413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69bf7440b88124382b02a4ae418252
+      internalID: -9104949796492356764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: applejack_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 44
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd0d0de28d05974ba7821773963b11b
+      internalID: 7038243528044520181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc17bb34afaed3b4cac070d3707bab4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
